@@ -1,0 +1,13 @@
+alias k='kubectl'
+alias kgp='kubectl get pods'
+alias kgd='kubectl get deployments'
+alias kgn='kubectl get nodes'
+alias kdp='kubectl describe pod'
+alias kdd='kubectl describe deployment'
+alias kdn='kubectl describe node'
+alias kpf='kubectl port-forward'
+alias g='git'
+alias gpl='git pull'
+alias gph='git push'
+alias ..='cd ..'
+
