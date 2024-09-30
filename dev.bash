@@ -10,4 +10,5 @@ alias g='git'
 alias gpl='git pull'
 alias gph='git push'
 alias ..='cd ..'
-
+alias h='helm'
+alias kcu='kubectl config use-context'
