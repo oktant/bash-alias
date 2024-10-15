@@ -17,5 +17,10 @@ alias g='git'
 alias gpl='git pull'
 alias gph='git push'
 
+######### docker #########
+alias d='docker'
+alias dc='docker compose'
+alias dl='docker login'
+
 alias ..='cd ..'
 
