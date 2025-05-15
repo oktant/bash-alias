@@ -1,15 +1,8 @@
 ######### kubernetes #########
 alias k='kubectl'
-alias kgp='kubectl get pods'
-alias kgd='kubectl get deployments'
-alias kgn='kubectl get nodes'
-alias kdp='kubectl describe pod'
-alias kdd='kubectl describe deployment'
-alias kdn='kubectl describe node'
-alias kdelp='kubectl delete pod'
-alias kdeld='kubectl delete deployment'
 alias kpf='kubectl port-forward'
-alias kcu='kubectl config use-context'
+alias ktx='kubectx'
+alias kns='kubens'
 alias h='helm'
 
 ######### git #########
@@ -21,6 +14,13 @@ alias gph='git push'
 alias d='docker'
 alias dc='docker compose'
 alias dl='docker login'
+
+######## ls """"""""
+alias l='ls -CF'
+alias la='ls -A'
+alias ll='ls -alF'
+alias ls='ls --color=auto'
+
 
 alias ..='cd ..'
 
