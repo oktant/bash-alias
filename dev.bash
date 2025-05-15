@@ -14,6 +14,8 @@ alias gph='git push'
 alias d='docker'
 alias dc='docker compose'
 alias dl='docker login'
+alias db='docker build'
+alias dp='docker push'
 
 ######## ls """"""""
 alias l='ls -CF'
@@ -23,4 +25,5 @@ alias ls='ls --color=auto'
 
 
 alias ..='cd ..'
+alias ...='cd'
 
