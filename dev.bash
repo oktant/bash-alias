@@ -11,8 +11,8 @@ alias h='helm'
 
 ######### git #########
 alias g='git'
-alias gpl='git pull'
-alias gph='git push'
+alias gpl='git pull origin'
+alias gph='git push origin'
 
 ######### docker #########
 alias d='docker'
